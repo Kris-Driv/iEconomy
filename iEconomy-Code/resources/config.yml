@@ -1,0 +1,5 @@
+---
+default-money: 500.00
+currency-symbol: "$"
+money-format: "{SYMBOL}{MONEY}"
+...

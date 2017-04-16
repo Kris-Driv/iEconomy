@@ -1,0 +1,976 @@
+---
+# All item products. Prices by Octain (http://www.naughtynathan.co.uk/minecraft/prices.htm)
+
+# Coal
+263:
+ each: 8
+ stack: 400
+# Coal (ore)
+16:
+ each: 30
+ stack: 1600
+# Block of coal
+173:
+ each: 72
+ stack: 3600
+# Iron (ingot)
+265:
+ each: 15
+ stack: 800
+# Iron (ore)
+15:
+ each: 12
+ stack: 600
+# Iron (block)
+42:
+ each: 135
+ stack: 7200
+# Gold (ingot)
+266:
+ each: 40
+ stack: 2000
+# Gold (ore)
+14:
+ each: 30
+ stack: 1500
+# Gold (block)
+41:
+ each: 360
+ stack: 18000
+# Diamond (gem)
+264:
+ each: 160
+ stack: 10000
+# Diamond (ore)
+56:
+ each: 640
+ stack: 40000
+# Diamond (block)
+57:
+ each: 1450
+ stack: 92000
+# Lapis lazuli (dye)
+351:4:
+ each: 8
+ stack: 400
+# Lapis lazuli (ore)
+21:
+ each: 120
+ stack: 6400
+# Lapis lazuli (block)
+22:
+ each: 70
+ stack: 3600
+# Emerald
+388:
+ each: 100
+ stack: 6000
+# Emerald ore
+129:
+ each: 800
+ stack: 50000
+# Block of emerald
+133:
+ each: 900
+ stack: 54000
+# Nether quartz
+406:
+ each: 10
+ stack: 500
+# Nether quartz ore
+153:
+ each: 40
+ stack: 2000
+# Block of quartz
+155:
+ each: 40
+ stack: 2000
+# Redstone (dust)
+331:
+ each: 4
+ stack: 250
+# Redstone (ore)
+73:
+ each: 60
+ stack: 3000
+# Redstone (ore)
+74:
+ each: 60
+ stack: 3000
+# Block of redstone
+152:
+ each: 36
+ stack: 2200
+# Glowstone (dust)
+348:
+ each: 4
+ stack: 200
+# Glowstone (block)
+89:
+ each: 15
+ stack: 800
+# Dirt
+3:
+ each: 1
+ stack: 50
+# Grass
+2:
+ each: 4
+ stack: 200
+# Cobblestone
+4:
+ each: 1
+ stack: 60
+# Stone
+1:
+ each: 2
+ stack: 100
+# Gravel
+13:
+ each: 3
+ stack: 150
+# Sand
+12:
+ each: 1
+ stack: 50
+# Mossy cobble
+48:
+ each: 5
+ stack: 250
+# Snowball
+332:
+ each: 2
+ stack: 80
+# Snow (block)
+80:
+ each: 4
+ stack: 200
+# Clay (ball)
+337:
+ each: 3
+ stack: 150
+# Clay (block)
+82:
+ each: 12
+ stack: 600
+# Ice
+79:
+ each: 6
+ stack: 300
+# Obsidian
+49:
+ each: 12
+ stack: 600
+# Endstone
+121:
+ each: 20
+ stack: 1000
+# Netherrack
+87:
+ each: 1
+ stack: 50
+# Soul sand
+88:
+ each: 4
+ stack: 200
+# Mycelium
+110:
+ each: 10
+ stack: 500
+# Wool (white)
+35:
+ each: 6
+ stack: 300
+# Wool (coloured)
+35:@:
+ each: 10
+ stack: 500
+# Cobblestone slab
+44:3:
+ each: 1
+ stack: 30
+# Cobblestone steps
+67:
+ each: 2
+ stack: 100
+# Stone slab
+44:
+ each: 1
+ stack: 50
+# Cobblestone fence
+139:
+ each: 1
+ stack: 60
+# Mossy cobblestone fence
+139:1:
+ each: 5
+ stack: 250
+# Sandstone
+24:
+ each: 4
+ stack: 200
+# Sandstone slab
+44:1:
+ each: 2
+ stack: 100
+# Sandstone steps/stairs
+128:
+ each: 6
+ stack: 300
+# Decorative sandstone
+24:1:
+ each: 4
+ stack: 200
+# Smooth sandstone
+24:2:
+ each: 4
+ stack: 200
+# Stone brick
+98:
+ each: 2
+ stack: 120
+# Stone brick slab
+44:5:
+ each: 1
+ stack: 60
+# Stone brick steps/stairs
+109:
+ each: 3
+ stack: 180
+# Stone bricks (mossy)
+98:1:
+ each: 6
+ stack: 360
+# Stone bricks (cracked)
+98:2:
+ each: 5
+ stack: 250
+# Stone block (chiseled)
+98:3:
+ each: 50
+ stack: 2000
+# Red bricks
+45:
+ each: 15
+ stack: 800
+# Red brick steps/stairs
+108:
+ each: 25
+ stack: 1200
+# Red brick slab
+44:4:
+ each: 8
+ stack: 400
+# Clay brickette (single)
+336:
+ each: 4
+ stack: 200
+# Hardened clay
+172:
+ each: 15
+ stack: 800
+# Nether brickette
+405:
+ each: 2
+ stack: 100
+# Nether bricks
+112:
+ each: 8
+ stack: 400
+# Nether brick slab
+44:6:
+ each: 4
+ stack: 200
+# Nether brick steps/stairs
+114:
+ each: 12
+ stack: 600
+# Quartz slab
+44:7:
+ each: 20
+ stack: 1000
+# Quartz steps/stairs
+156:
+ each: 60
+ stack: 3000
+# Quartz block (pillar)
+155:2:
+ each: 40
+ stack: 2000
+# Quartz block (chiseled)
+155:1:
+ each: 40
+ stack: 2000
+# Logs (oak)
+17:
+ each: 8
+ stack: 400
+# Logs (spruce)
+17:1:
+ each: 8
+ stack: 400
+# Logs (birch)
+17:2:
+ each: 9
+ stack: 440
+# Logs (jungle)
+17:3:
+ each: 4
+ stack: 200
+# Wood planks (oak)
+5:
+ each: 2
+ stack: 100
+# Wood slab (oak)
+44:2:
+ each: 1
+ stack: 50
+# Wood steps/stairs (oak)
+53:
+ each: 3
+ stack: 150
+# Wood planks (spruce)
+125:1:
+ each: 2
+ stack: 100
+# Wood slab(spruce)
+126:1:
+ each: 1
+ stack: 50
+# Wood steps/stairs (spruce)
+134:
+ each: 3
+ stack: 150
+# Wood planks (birch)
+125:2:
+ each: 2
+ stack: 110
+# Wood slab(birch)
+126:2:
+ each: 1
+ stack: 55
+# Wood steps/stairs (birch)
+135:
+ each: 3
+ stack: 165
+# Wood planks (jungle)
+125:3:
+ each: 1
+ stack: 50
+# Wood slab(jungle)
+126:3:
+ each: 1
+ stack: 25
+# Wood steps/stairs (jungle)
+136:
+ each: 2
+ stack: 75
+# Leaves
+18:@:
+ each: 1
+ stack: 60
+# Sapling (oak)
+6:
+ each: 15
+ stack: 800
+# Sapling (spruce)
+6:1:
+ each: 15
+ stack: 800
+# Sapling (birch)
+6:2:
+ each: 20
+ stack: 900
+# Sapling (jungle)
+6:3:
+ each: 12
+ stack: 600
+# Dandelion
+37:
+ each: 2
+ stack: 100
+# Rose
+38:
+ each: 2
+ stack: 100
+# Tall grass
+31:1:
+ each: 1
+ stack: 40
+# Fern
+31:2:
+ each: 2
+ stack: 80
+# Dead shrub
+31:
+ each: 3
+ stack: 150
+# Vines
+106:
+ each: 2
+ stack: 100
+# Cactus
+81:
+ each: 3
+ stack: 150
+# Lily pad
+111:
+ each: 6
+ stack: 300
+# Chicken (raw)
+365:
+ each: 8
+ stack: 400
+# Chicken (cooked)
+366:
+ each: 9
+ stack: 450
+# Porkchop (raw)
+319:
+ each: 12
+ stack: 600
+# Porkchop (cooked)
+320:
+ each: 13
+ stack: 650
+# Beef/steak (raw)
+363:
+ each: 10
+ stack: 500
+# Beef/steak (cooked)
+364:
+ each: 11
+ stack: 550
+# Fish (raw)
+349:
+ each: 20
+ stack: 900
+# Fish (cooked)
+350:
+ each: 21
+ stack: 950
+# Potato (raw)
+392:
+ each: 4
+ stack: 200
+# Baked potato (cooked)
+393:
+ each: 5
+ stack: 250
+# Poisonous potato
+394:
+ each: 1
+ stack: 50
+# Carrot
+391:
+ each: 4
+ stack: 200
+# Red apple
+260:
+ each: 60
+ stack: 3600
+# Golden apple
+322:
+ each: 400
+ stack: 20000
+# Melon (slice)
+360:
+ each: 2
+ stack: 100
+# Melon (block)
+103:
+ each: 25
+ stack: 1500
+# Pumpkin
+86:
+ each: 10
+ stack: 600
+# Brown mushroom
+39:
+ each: 6
+ stack: 300
+# Red mushroom
+40:
+ each: 6
+ stack: 300
+# Mushroom stew
+282:
+ each: 15
+ stack: -1
+# Bread
+297:
+ each: 5
+ stack: 300
+# Cookie
+357:
+ each: 1
+ stack: 60
+# Pumpkin pie
+400:
+ each: 15
+ stack: 800
+# Cake
+354:
+ each: 30
+ stack: -1
+# Seeds
+295:
+ each: 2
+ stack: 100
+# Melon seeds
+362:
+ each: 2
+ stack: 100
+# Pumpkin seeds
+361:
+ each: 3
+ stack: 150
+# Cocoa beans
+351:3:
+ each: 2
+ stack: 100
+# Wheat
+296:
+ each: 2
+ stack: 100
+# Sugar cane
+338:
+ each: 2
+ stack: 100
+# Sugar
+353:
+ each: 2
+ stack: 100
+# Egg
+344:
+ each: 2
+ stack: 50
+# Milk (+bucket=40)
+335:
+ each: 45
+ stack: -1
+# Hay bale
+170:
+ each: 20
+ stack: 900
+# Glistering melon
+382:
+ each: 40
+ stack: 2000
+# Flint
+318:
+ each: 4
+ stack: 200
+# Gunpowder
+289:
+ each: 10
+ stack: 500
+# Gold nugget
+371:
+ each: 5
+ stack: 250
+# Leather
+334:
+ each: 20
+ stack: 900
+# Feather
+288:
+ each: 4
+ stack: 200
+# Bone
+352:
+ each: 6
+ stack: 300
+# Bone meal
+351:15:
+ each: 2
+ stack: 100
+# String
+287:
+ each: 4
+ stack: 200
+# Rotten flesh
+367:
+ each: 1
+ stack: 50
+# Spider eye
+375:
+ each: 8
+ stack: 400
+# Fermented spider eye
+376:
+ each: 18
+ stack: 900
+# Slimeball
+341:
+ each: 25
+ stack: 1500
+# Ender pearl
+368:
+ each: 10
+ stack: 150
+# Eye of ender
+381:
+ each: 35
+ stack: 2100
+# Blaze rod
+369:
+ each: 50
+ stack: 3000
+# Blaze powder
+377:
+ each: 25
+ stack: 1500
+# Magma cream
+378:
+ each: 50
+ stack: 3000
+# Ghast tear
+370:
+ each: 200
+ stack: 12800
+# Workbench/crafting table
+58:
+ each: 4
+ stack: 300
+# Furnace
+61/62:
+ each: 10
+ stack: 500
+# Chest
+54:
+ each: 15
+ stack: 800
+# Trapped chest
+146:
+ each: 25
+ stack: 1300
+# Ender chest
+130:
+ each: 140
+ stack: 7000
+# Hopper
+154:
+ each: 100
+ stack: 4800
+# Dispenser
+23:
+ each: 35
+ stack: 2000
+# Jukebox
+84:
+ each: 180
+ stack: 10800
+# Note block
+25:
+ each: 25
+ stack: 1050
+# Anvil
+145:
+ each: 465
+ stack: 10400
+# Cauldron
+380:
+ each: 100
+ stack: 5600
+# Enchantment table
+116:
+ each: 400
+ stack: 24000
+# Bookshelf
+47:
+ each: 75
+ stack: 4200
+# Glass
+20:
+ each: 3
+ stack: 150
+# Glass pane
+102:
+ each: 1
+ stack: 60
+# Iron bars
+101:
+ each: 6
+ stack: 300
+# Fence
+85:
+ each: 3
+ stack: 150
+# Fence gate
+107:
+ each: 8
+ stack: 400
+# Nether fence
+113:
+ each: 24
+ stack: 1200
+# Sign
+323:
+ each: 4
+ stack: 200
+# Ladders
+65:
+ each: 2
+ stack: 100
+# Painting
+321:
+ each: 14
+ stack: 700
+# Item frame
+389:
+ each: 30
+ stack: 1300
+# Bed
+355:
+ each: 25
+ stack: -1
+# Carpet
+171:@:
+ each: 7
+ stack: 350
+# Redstone torch
+75/76:
+ each: 6
+ stack: 300
+# Lever
+69:
+ each: 2
+ stack: 110
+# Wooden button
+143:
+ each: 2
+ stack: 100
+# Stone button
+77:
+ each: 2
+ stack: 100
+# Wooden pressure plate
+72:
+ each: 4
+ stack: 200
+# Stone pressure plate
+70:
+ each: 4
+ stack: 200
+# Weighted pressure plate (light)
+147:
+ each: 30
+ stack: 1600
+# Weighted pressure plate (heavy)
+148:
+ each: 80
+ stack: 4000
+# Trapdoor
+96:
+ each: 5
+ stack: 250
+# Wooden door
+324:
+ each: 10
+ stack: 500
+# Iron door
+330:
+ each: 90
+ stack: 4800
+# Piston
+33:
+ each: 30
+ stack: 1600
+# Sticky piston
+29:
+ each: 55
+ stack: 3100
+# Tripwire hook
+131:
+ each: 10
+ stack: 500
+# Daylight sensor
+151:
+ each: 50
+ stack: 2100
+# Redstone lamp
+123/124:
+ each: 35
+ stack: 1800
+# Redstone repeater
+356:
+ each: 25
+ stack: 1200
+# Redstone comparator
+404:
+ each: 30
+ stack: 1700
+# Stick
+280:
+ each: 1
+ stack: 50
+# Torch
+50:
+ each: 2
+ stack: 110
+# Paper
+339:
+ each: 2
+ stack: 100
+# Rails
+66:
+ each: 6
+ stack: 400
+# Powered rail
+27:
+ each: 40
+ stack: 2000
+# Detector rail
+28:
+ each: 16
+ stack: 880
+# Activator rail
+157:
+ each: 15
+ stack: 800
+# Minecart
+328:
+ each: 80
+ stack: -1
+# Lava (+bucket=40)
+327:
+ each: 100
+ stack: -1
+# Leash
+420:
+ each: 20
+ stack: 1000
+# Saddle
+329:
+ each: 250
+ stack: -1
+# Boat
+333:
+ each: 10
+ stack: -1
+# Book
+340:
+ each: 20
+ stack: 1200
+# Book and quill
+386:
+ each: 35
+ stack: -1
+# Bowl
+281:
+ each: 2
+ stack: 75
+# Bucket
+325:
+ each: 40
+ stack: 2400
+# Flower pot
+390/140:
+ each: 12
+ stack: 600
+# Dandelion yellow
+351:11:
+ each: 2
+ stack: 100
+# Bonemeal (white)
+351:15:
+ each: 2
+ stack: 100
+# Orange dye
+351:14:
+ each: 2
+ stack: 100
+# Rose red
+351:1:
+ each: 2
+ stack: 100
+# Lime dye
+351:10:
+ each: 3
+ stack: 150
+# Cactus green
+351:2:
+ each: 4
+ stack: 200
+# Pink dye
+351:9:
+ each: 2
+ stack: 100
+# Magenta dye
+351:13:
+ each: 4
+ stack: 200
+# Purple dye
+351:5:
+ each: 5
+ stack: 250
+# Lapis lazuli (blue)
+351:4:
+ each: 8
+ stack: 400
+# Cyan dye
+351:6:
+ each: 6
+ stack: 300
+# Light blue dye
+351:12:
+ each: 5
+ stack: 250
+# Light gray dye
+351:7:
+ each: 5
+ stack: 250
+# Gray dye
+351:8:
+ each: 6
+ stack: 370
+# Ink sac (black)
+351:0:
+ each: 10
+ stack: 640
+# Cocoa beans (brown)
+351:3:
+ each: 2
+ stack: 100
+# Brewing stand
+379:
+ each: 55
+ stack: 3200
+# Nether wart seeds
+372:
+ each: 4
+ stack: 200
+# Glass bottle
+374:
+ each: 3
+ stack: 150
+# Bow
+261:
+ each: 20
+ stack: -1
+# Arrow
+262:
+ each: 3
+ stack: 150
+# Fishing rod
+346:
+ each: 10
+ stack: -1
+# Shears
+359:
+ each: 30
+ stack: -1
+# Flint and steel
+259:
+ each: 20
+ stack: -1
+# Compass
+345:
+ each: 65
+ stack: -1
+# Clock
+347:
+ each: 165
+ stack: -1
+...
